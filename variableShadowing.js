@@ -1,3 +1,4 @@
+//VARIABLE SHADOWING ???
 let a = 1;
 
 const fn = () => {
