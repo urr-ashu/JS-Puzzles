@@ -1,3 +1,4 @@
+//2
 const fn = () => {
   a = "Hello JS";
   //   var a = "Hello JS";
