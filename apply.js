@@ -4,4 +4,4 @@ function fn(age1, age2) {
   console.log(`My age is ${age1} ${age2}`);
 }
 
-fn.call({ name: "Jason" }, 20, 10);
+fn.apply({ name: "Jason" }, [20, 10]);
